@@ -1,1 +1,6 @@
-print("El programa funciona correctamente")
+import os
+
+#Principal
+os.system('clear')
+print(" MIGUEL PRODUCTION PRESENT...")
+
